@@ -1,0 +1,12 @@
+fastapi
+jinja2
+aiofiles
+requests
+uvicorn
+fastai==2.2.5
+https://download.pytorch.org/whl/cpu/torchvision-0.8.1%2Bcpu-cp36-cp36m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torch-1.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+python-multipart
+pandas
+pyyaml
+firebase_admin
